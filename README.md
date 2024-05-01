@@ -4,3 +4,8 @@
 3) install tensorflow if it is not there
 4) run code cell by cell
 5) Run each file one by one
+
+
+Inceptionv3.ipynb = Inceptionv3 Model
+usingxception.ipynb = Xception Model
+resnet-50 = Resnet50
