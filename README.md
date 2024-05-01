@@ -3,3 +3,4 @@
 2) Set the correct path of the downloaded dataset in the files
 3) install tensorflow if it is not there
 4) run code cell by cell
+5) Run each file one by one
