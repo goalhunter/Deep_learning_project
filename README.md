@@ -6,6 +6,7 @@
 5) Run each file one by one
 
 Files and their models
-1)Inceptionv3.ipynb = Inceptionv3 Model
-2)usingxception.ipynb = Xception Model
-3)resnet-50 = Resnet50
+
+ 1) Inceptionv3.ipynb = Inceptionv3 Model
+ 2) usingxception.ipynb = Xception Model
+ 3) resnet-50 = Resnet50
